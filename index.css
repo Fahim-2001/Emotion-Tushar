@@ -1,0 +1,36 @@
+.body {
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+}
+
+.margin-tb {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+.fixed-height {
+    height: 600px;
+}
+
+.icon-size {
+    width: 200px;
+}
+
+.link-decoration {
+    text-decoration: none;
+    color: black;
+}
+
+.link-decoration:hover {
+    text-decoration: none;
+    color: blue;
+}
+
+.footer {
+    text-align: center;
+    color: rgb(160, 159, 159);
+    font-size: medium;
+}
